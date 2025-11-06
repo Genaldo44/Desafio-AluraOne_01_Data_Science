@@ -37,5 +37,5 @@ Ao decidir qual loja vender, vários fatores devem ser ponderados:
 *   **Custos Operacionais (incluindo Frete):** Lojas com menores custos operacionais podem ser mais lucrativas, mesmo com faturamento menor.
 *   **Potencial de Crescimento:** Avaliar o mercado local e o potencial de crescimento de cada loja é fundamental.
 
-**Com base apenas nos dados analisados (faturamento, vendas por categoria, avaliação e frete), a Loja 4 apresenta o menor faturamento total e o menor frete médio. N**
+**Com base apenas nos dados analisados (faturamento, vendas por categoria, avaliação e frete), a Loja 4 apresenta o menor faturamento total e o menor frete médio. **
 
